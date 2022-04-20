@@ -1,2 +1,2 @@
 # timely-soft
-Inittial commit
+Initial commit
